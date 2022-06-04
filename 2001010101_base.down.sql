@@ -111,4 +111,4 @@ DROP TABLE `users_watched`;
 DROP TABLE `user_bonuses_avia`;
 DROP TABLE `user_bonuses_hotels`;
 DROP TABLE `user_bonuses_railroads`;
-DROP TABLE `airports_view`, `bt_approvals_view`, `bt_download_attachments_view`, `geo_locality_view`, `helpdesk_ticket_history_helpdesk_users_view`, `helpdesk_ticket_history_last_case_state_view`, `helpdesk_ticket_history_last_helpdesk_user_update_view`;
+DROP VIEW `airports_view`, `bt_approvals_view`, `bt_download_attachments_view`, `geo_locality_view`, `helpdesk_ticket_history_helpdesk_users_view`, `helpdesk_ticket_history_last_case_state_view`, `helpdesk_ticket_history_last_helpdesk_user_update_view`, `timecard_approvals_view`, `user_bonuses_avia_view`, `user_bonuses_hotel_view`, `user_bonuses_railroad_view`;
