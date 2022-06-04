@@ -1,0 +1,1 @@
+ALTER TABLE `company` ADD `psow_number_unique` enum('true','false') COLLATE 'utf8_general_ci' NOT NULL DEFAULT 'true' AFTER `act_number_unique`;

@@ -1,0 +1,1 @@
+ALTER TABLE `company` DROP `psow_number_unique`;
