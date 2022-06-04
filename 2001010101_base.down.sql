@@ -82,7 +82,6 @@ DROP TABLE `password_dictionary_characteristics`;
 DROP TABLE `password_dictionary_nouns`;
 DROP TABLE `phone_confirmation`;
 DROP TABLE `railroads`;
-DROP TABLE `schema_migrations`;
 DROP TABLE `sessions`;
 DROP TABLE `sessions_persistence_ratelimit`;
 DROP TABLE `settings_default`;

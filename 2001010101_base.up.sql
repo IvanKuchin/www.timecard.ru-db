@@ -1490,17 +1490,6 @@ CREATE TABLE `railroads` (
 -- --------------------------------------------------------
 
 --
--- Table structure for table `schema_migrations`
---
-
-CREATE TABLE `schema_migrations` (
-  `version` bigint(20) NOT NULL,
-  `dirty` tinyint(1) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
--- --------------------------------------------------------
-
---
 -- Table structure for table `sessions`
 --
 
