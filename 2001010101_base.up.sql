@@ -2681,7 +2681,7 @@ DROP TABLE IF EXISTS `users_block`;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `users_block` (
   `userid` varchar(255) NOT NULL DEFAULT '',
-  `date` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+  `date` datetime NOT NULL DEFAULT '0000-01-01 00:00:00',
   `notes` text NOT NULL
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
